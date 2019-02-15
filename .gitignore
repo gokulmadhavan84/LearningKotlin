@@ -1,0 +1,10 @@
+build/*
+app/build/*
+build.gradle
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+local.properties
+settings.gradle
+.DS_*

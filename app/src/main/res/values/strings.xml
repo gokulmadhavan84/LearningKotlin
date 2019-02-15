@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearningKotlin</string>
+    <string name="enter_something">Enter Something</string>
+    <string name="enter_some_title">Enter Some Title</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="save_image">Save image</string>
+</resources>
